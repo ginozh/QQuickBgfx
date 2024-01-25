@@ -2,6 +2,7 @@
 
 This repository implements [BGFX](https://github.com/bkaradzic/bgfx) renderering abstraction library to work under QML/QQuick for Qt6.
 
+
 A QQuickBgfxItem can be instantiated in QML with a given [bgfx::viewId](https://bkaradzic.github.io/bgfx/bgfx.html#views).
 The content of the framebuffer associated to the viewId will be visualized inside the QML BgfxItem.
 
